@@ -1,0 +1,17 @@
+# Core dependencies
+streamlit>=1.30.0
+pandas>=2.2.0
+numpy>=1.26.0
+joblib>=1.3.2
+
+# Machine learning libraries
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+
+# Optional dependencies for visualizations
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# System dependencies
+python-dateutil>=2.8.2
+pytz>=2023.3
