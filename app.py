@@ -48,3 +48,4 @@ else:
     st.markdown(f"**Writers:** {movie_row.iloc[0]['writers']}")
     st.markdown(f"**Cast:** {movie_row.iloc[0]['cast']}")
     st.markdown(f"**Genres:** {movie_row.iloc[0]['genres']}")
+    st.markdown(f"**Actual Rating:** {movie_row.iloc[0]['rating']}")
